@@ -1,0 +1,11 @@
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaLogicaNegocio.pdb
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaDatos.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaEntidades.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaDatos.pdb
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\bin\Debug\CapaEntidades.pdb
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.AssemblyReference.cache
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CoreCompileInputs.cache
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.csproj.CopyComplete
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.dll
+C:\Users\matan\Desktop\Mantenimiento_Productos\CapaLogicaNegocio\obj\Debug\CapaLogicaNegocio.pdb
